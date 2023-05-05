@@ -1,5 +1,5 @@
 {
-  "global": {
+  "Light": {
     "content": {
       "primary": {
         "value": "#000000",
@@ -268,7 +268,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "Light"
     ]
   }
 }
