@@ -36,6 +36,11 @@
       "error": {
         "value": "#fa4f4f",
         "type": "color"
+      },
+      "test": {
+        "value": "#000001",
+        "type": "color",
+        "description": "test token"
       }
     },
     "background": {
